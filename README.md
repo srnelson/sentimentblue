@@ -1,4 +1,4 @@
-# sentimentsblue
+# sentimentblue
 
 Alexa skill to use Microsoft Azure sentiment analysis in an interactive challenge
 
